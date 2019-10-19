@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571497943 source:c:\users\chary\desktop\test\main.cpp
+	<iostream>
+	<cstdlib>
+	"Trash.h"
+
+1571497943 c:\users\chary\desktop\test\include\trash.h
+
+1571497934 source:c:\users\chary\desktop\test\src\trash.cpp
+	"Trash.h"
+	<iostream>
+
